@@ -1,8 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyoKong&count_private=true&show_icons=true&theme=radical)](https://github.com/HyoKong/github-readme-stats)
 ### Hi there 👋
 
 <!--
-**D-X-Y/D-X-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HyoKong/HyoKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyoKong&count_private=true&show_icons=true&theme=radical)](https://github.com/HyoKong/github-readme-stats)
+
